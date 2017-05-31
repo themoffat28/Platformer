@@ -70,3 +70,5 @@
 /Users/bmof0507/Projects/Platformer/Platformer/bin/Debug/MonoGame.Framework.dll
 /Users/bmof0507/Projects/Platformer/Platformer/bin/Debug/Content/Sprites/Zombie/Idle.xnb
 /Users/bmof0507/Projects/Platformer/Platformer/bin/Debug/Content/Sprites/Zombie/Run.xnb
+/Users/bmof0507/Projects/Platformer/Platformer/bin/Debug/Content/Sprites/Skeleton/Idle.xnb
+/Users/bmof0507/Projects/Platformer/Platformer/bin/Debug/Content/Sprites/Skeleton/Run.xnb

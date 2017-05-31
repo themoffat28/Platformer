@@ -341,7 +341,7 @@ namespace Platformer
 				if (0.0f < jumpTime && jumpTime <= MaxJumpTime)
 				{
 					// Fully override the vertical velocity with a power curve that gives players more control over the top of the jump
-					velocityY = JumpLaunchVelocity * (1.0f - (float)Math.Pow(jumpTime / MaxJumpTime, JumpControlPower));
+					velocityY = JumpLaunchVelocity * (1.3f - (float)Math.Pow(jumpTime / MaxJumpTime, JumpControlPower));
 				}
 				else
 				{

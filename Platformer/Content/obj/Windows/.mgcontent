@@ -45,8 +45,10 @@
     <File>/Users/bmof0507/Projects/Platformer/Platformer/Content/Tiles/Platform.png</File>
     <File>/Users/bmof0507/Projects/Platformer/Platformer/Content/Sprites/MonsterA/Idle.png</File>
     <File>/Users/bmof0507/Projects/Platformer/Platformer/Content/Sprites/MonsterA/Run.png</File>
-    <File>/Users/bmof0507/Projects/Platformer/Platformer/Content/Sprites/Zombie/Run.png</File>
     <File>/Users/bmof0507/Projects/Platformer/Platformer/Content/Sprites/Zombie/Idle.png</File>
+    <File>/Users/bmof0507/Projects/Platformer/Platformer/Content/Sprites/Zombie/Run.png</File>
+    <File>/Users/bmof0507/Projects/Platformer/Platformer/Content/Sprites/Skeleton/Idle.png</File>
+    <File>/Users/bmof0507/Projects/Platformer/Platformer/Content/Sprites/Skeleton/Run.png</File>
     <File>/Users/bmof0507/Projects/Platformer/Platformer/Content/Sprites/Player/Celebrate.png</File>
     <File>/Users/bmof0507/Projects/Platformer/Platformer/Content/Sprites/Player/Idle.png</File>
     <File>/Users/bmof0507/Projects/Platformer/Platformer/Content/Sprites/Player/Jump.png</File>

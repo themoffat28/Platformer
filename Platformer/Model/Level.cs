@@ -213,6 +213,8 @@ namespace Platformer
 					return LoadEnemyTile(x, y, "MonsterD");
 				case 'E':
 					return LoadEnemyTile(x, y, "MonsterE");
+				case 'S':
+					return LoadEnemyTile(x, y, "Skeleton");
 				case 'Z':
 					return LoadEnemyTile(x, y, "Zombie");
 
